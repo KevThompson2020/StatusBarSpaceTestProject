@@ -1,0 +1,61 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StatusBarSpaceTestProject
+build_property.ProjectDir = /Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/MainPage.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/Pages/SubPageOne.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.Pages.SubPageOne.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/SubPageOne.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/SubPageOne.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/Pages/SubPageTwo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.Pages.SubPageTwo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/SubPageTwo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/SubPageTwo.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/kevthompson/RiderProjects/StatusBarSpaceTestProject/StatusBarSpaceTestProject/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StatusBarSpaceTestProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

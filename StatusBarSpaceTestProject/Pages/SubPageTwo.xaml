@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.NavBarIsVisible="False"
+             x:Class="StatusBarSpaceTestProject.Pages.SubPageTwo">
+        
+    <Grid
+        HorizontalOptions="FillAndExpand"
+        BackgroundColor="DarkGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <BoxView Grid.Row="0" 
+                 HeightRequest="50"
+                 BackgroundColor="Red"/>
+        <BoxView Grid.Row="1"
+                 HeightRequest="50"
+                 BackgroundColor="Green"/>
+        <BoxView Grid.Row="2"
+                 HeightRequest="50"
+                 BackgroundColor="Blue"/>
+        <Button Grid.Row="3"
+                Text="Goto Start" 
+                Margin="10,10,10,10"
+                Clicked="OnClicked"
+                HorizontalOptions="Fill" />
+    </Grid>
+</ContentPage>
