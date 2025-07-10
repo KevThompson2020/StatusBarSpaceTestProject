@@ -6,13 +6,6 @@
              Shell.NavBarIsVisible="False"
              x:Class="StatusBarSpaceTestProject.Pages.SubPageOne">
         
-    <ContentPage.Behaviors>
-        <toolkit:StatusBarBehavior 
-            StatusBarColor="{AppThemeBinding Light=Green, Dark=Blue}" 
-            StatusBarStyle="LightContent" />
-    </ContentPage.Behaviors>
-
-        
         <Grid
             HorizontalOptions="FillAndExpand"
             BackgroundColor="DarkGray">
